@@ -1,0 +1,26 @@
+body {
+  background: linear-gradient(#000, #777);
+  font-family: 'Press Start 2P';
+  color: #fff;
+  text-shadow: 3px 3px #222;
+}
+
+pre {
+  font-family: 'Press Start 2P';
+}
+
+a {
+  color: #f88;
+}
+
+a:hover {
+  color: #f00;
+}
+
+.inline {
+  display: inline;
+}
+
+.info {
+  color: #999;
+}
