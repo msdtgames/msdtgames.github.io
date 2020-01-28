@@ -5,6 +5,10 @@ body {
   text-shadow: 3px 3px #222;
 }
 
+h1 {
+  font-size: 180%;
+}
+
 pre {
   font-family: 'Press Start 2P';
 }
